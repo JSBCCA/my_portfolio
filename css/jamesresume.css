@@ -154,4 +154,20 @@ strong.green {color: #18BC9C;}
   content: "\f2dc";
   font-family: FontAwesome; }
 
+#music::after {
+  content: "\f001";
+  font-family: FontAwesome; }
+
+#dj::after {
+  content: "\f0ce";
+  font-family: FontAwesome; }
+
+#fp::after {
+  content: "\f120";
+  font-family: FontAwesome; }
+
+#wd::after {
+  content: "\f07a";
+  font-family: FontAwesome; }
+
 /*.col-lg-4 {width: 64%;}*/
