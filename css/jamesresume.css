@@ -38,7 +38,7 @@ section.success {
   fieldset[disabled] .btn-success.active {
     background-color: rgb(73, 176, 227);
     border-color: rgb(66, 169, 221);}
-  }
+
   .btn-success .badge {
     color: rgb(83, 186, 237);
     background-color: white;}
@@ -168,6 +168,10 @@ strong.green {color: #18BC9C;}
 
 #wd::after {
   content: "\f07a";
+  font-family: FontAwesome; }
+
+#pres::after {
+  content: "\f19d";
   font-family: FontAwesome; }
 
 /*.col-lg-4 {width: 64%;}*/
